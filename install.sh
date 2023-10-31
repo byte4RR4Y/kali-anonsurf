@@ -7,3 +7,4 @@ cd gintro
 sudo nimble install -y
 cd ../anonsurf
 sudo make
+sudo make install
