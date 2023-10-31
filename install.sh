@@ -1,6 +1,6 @@
 #! /bin/bash
 
-sudo apt update -y && sudo apt install nim -y
+sudo apt update -y && sudo apt install tor nim -y
 git clone https://github.com/StefanSalewski/gintro
 git clone https://github.com/ParrotSec/anonsurf
 cd gintro
